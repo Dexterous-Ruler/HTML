@@ -1,4 +1,3 @@
-cd "HTML\HTML"
 git add .
-git commit -m "update"
+git commit -m "Describe what you changed"
 git push
